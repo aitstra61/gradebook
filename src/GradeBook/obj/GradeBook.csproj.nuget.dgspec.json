@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rstrait\\gradebook\\src\\GradeBook\\GradeBook.csproj": {}
+    "C:\\Users\\rstrait\\Desktop\\github\\gradebook\\src\\GradeBook\\GradeBook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rstrait\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
+    "C:\\Users\\rstrait\\Desktop\\github\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rstrait\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+        "projectUniqueName": "C:\\Users\\rstrait\\Desktop\\github\\gradebook\\src\\GradeBook\\GradeBook.csproj",
         "projectName": "GradeBook",
-        "projectPath": "C:\\Users\\rstrait\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+        "projectPath": "C:\\Users\\rstrait\\Desktop\\github\\gradebook\\src\\GradeBook\\GradeBook.csproj",
         "packagesPath": "C:\\Users\\rstrait\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rstrait\\gradebook\\src\\GradeBook\\obj\\",
+        "outputPath": "C:\\Users\\rstrait\\Desktop\\github\\gradebook\\src\\GradeBook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rstrait\\AppData\\Roaming\\NuGet\\NuGet.Config"
